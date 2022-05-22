@@ -1,0 +1,7 @@
+build/*.js
+public
+dist
+src/config
+src/utils/bideo.js
+vue.config.js
+mock/
