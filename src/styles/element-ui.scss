@@ -1,5 +1,18 @@
 // cover some element-ui styles
 
+.el-input__wrapper {
+  border: none !important;
+  box-shadow: none !important;
+  background-color:transparent;
+}
+
+.el-input__inner {
+  border: none !important;
+  box-shadow: none !important;
+}
+.el-select {
+   --el-select-input-focus-border-color: transparent;
+}
 .el-breadcrumb__inner,
 .el-breadcrumb__inner a {
   font-weight: 400 !important;
