@@ -250,7 +250,7 @@ $loginCursorColor: #fff;
       -webkit-appearance: none;
 
       &:-webkit-autofill {
-        box-shadow: 0 0 0px 1000px $loginBg inset !important;
+        box-shadow: 0 0 0px 1000px #543d43 inset !important;
         -webkit-text-fill-color: #fff !important;
       }
     }
